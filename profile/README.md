@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://devantisolutions.com/Devanti_Solutions_logo.png" width="220">
+</p>
+
+<p align="center">
+  <b>Deployment and onboarding guide for the Devanti SecureAccess Connector</b>
+</p>
+
 # Devanti Solutions
 
 ### Building Cybersecurity Products from India for the Global Market 🌍
